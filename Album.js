@@ -1,0 +1,1 @@
+var Album = Backbone.Collection.extend({model: ImageModel});
